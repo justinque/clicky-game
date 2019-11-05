@@ -1,0 +1,64 @@
+[
+  {
+    "keys": 1,
+    "name": "ryu",
+    "selected": false
+  },
+  {
+    "keys": 2,
+    "name": "blanka",
+    "selected": false
+  },
+  {
+    "keys": 3,
+    "name": "dhalsim",
+    "selected": false
+  },
+  {
+    "keys": 4,
+    "name": "vega",
+    "selected": false
+  },
+  {
+    "keys": 5,
+    "name": "mbison",
+    "selected": false
+  },
+  {
+    "keys": 6,
+    "name": "balrog",
+    "selected": false
+  },
+  {
+    "keys": 7,
+    "name":"sagat",
+    "selected": false
+  },
+  {
+    "keys": 8,
+    "name": "chunli",
+    "selected": false
+  },
+  {
+
+    "keys": 9,
+    "name": "zangief",
+    "selected": false
+  },
+  {
+    "keys": 10,
+    "name": "guile",
+    "selected": false
+  },
+  {
+    "keys": 11,
+    "name": "ehonda",
+    "selected": false
+  },
+  {
+    "keys": 12,
+    "name": "ken",
+    "selected": false
+  }
+
+]
